@@ -102,3 +102,7 @@ Can be added using the following methods.
 | deviation | |
 | optioncode |  |
 | rxOnly |  |
+
+## Further Reading / External Links
+
+- [AN/PRC-152: Quick frequency change (Youtube)](https://www.youtube.com/watch?v=_f_1kOlMnNU)
